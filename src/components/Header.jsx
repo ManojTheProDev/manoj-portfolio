@@ -3,7 +3,7 @@ import React from "react";
 import { useScroll, useTransform, motion } from "framer-motion";
 import Nav from "./Nav";
 import { PROFILE } from "../data";
-import Manoj from "../../public/manoj.jpg";
+import Manoj from "../assets/manoj.jpeg";
 
 export default function Header() {
   const { scrollY } = useScroll();

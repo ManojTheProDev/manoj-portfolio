@@ -19,7 +19,7 @@
   position: absolute;
   inset: 0;
   opacity: 0.08;
-  background-image: url("/teal_slate_geometric_pattern.svg");
+  background-image: url("./assets/teal_slate_geometric_pattern.svg");
   background-repeat: repeat;
   background-size: 180px;
   pointer-events: none;
