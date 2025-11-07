@@ -8,3 +8,7 @@ Built with Vite, React, Tailwind CSS and Framer Motion.
    ```bash
    npm install
    ```
+   OR
+   ```bash
+   yarn
+   ```
